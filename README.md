@@ -11,3 +11,8 @@
   https://www.united-domains.de/portfolio/a/domain-admin/ns/6470825 
   https://hackernoon.com/set-up-ssl-on-github-pages-with-custom-domains-for-free-a576bdf51bc
   cloudflare login + pw analog github + Sonderzeichen * am Ende
+  
+- Website bei Google bestätigen
+    https://search.google.com/search-console/welcome?hl=de&utm_source=wmx&utm_medium=deprecation-pane&utm_content=home
+    
+    Link von google search holen - TXT im DNS management bei Cloudflare anlegen - bei google prüfen lassen - Inhaber steht fest!
