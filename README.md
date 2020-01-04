@@ -12,7 +12,7 @@
   https://hackernoon.com/set-up-ssl-on-github-pages-with-custom-domains-for-free-a576bdf51bc
   cloudflare login + pw analog github + Sonderzeichen * am Ende
   
-- Website bei Google bestätigen
-    https://search.google.com/search-console/welcome?hl=de&utm_source=wmx&utm_medium=deprecation-pane&utm_content=home
-    
+- Website bei Google bestätigen 
+    https://www.google.de/intl/de/submit_content.html 
+   
     Link von google search holen - TXT im DNS management bei Cloudflare anlegen - bei google prüfen lassen - Inhaber steht fest!
